@@ -5,3 +5,5 @@ get_vowels("sky") # []
 get_vowels("football") # [o, o, a]
 got 3
 printf ("hello world")
+get_vowels("sky") # []
+get_vowels("football") # [o, o, a]
